@@ -10,6 +10,6 @@
   "author": "Andrew Zigler <andrewzigler@gmail.com> (https://www.andrewzigler.com)",
   "license": "MIT",
   "dependencies": {
-    "pouchdb": "^7.2.1"
+    "pouchdb": "^7.3.1"
   }
 }
